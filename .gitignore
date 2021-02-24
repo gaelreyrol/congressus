@@ -44,3 +44,8 @@ application/ppeu
 
 # composer
 vendor/
+
+# eclipse
+.settings
+.buildpath
+.project
